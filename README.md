@@ -29,14 +29,28 @@ A modern take on the classic Asteroids arcade game built with Pygame.
 - Small Asteroids: 100 points
 
 ## Run on Repl.it
-1. Visit the Space Havoc Repl: [https://replit.com/@qepting91/asteroids](https://replit.com/@qepting91/asteroids)
-2. Click "Fork" to create your own copy
-![Fork the Repl](images/repl_fork.png)
-3. Hit the "Run" button to start the game
-![Run the Game](images/repl_run.png)
-4. Play Space Havoc in your browser!
-![Game Output](images/repl_output.png)
 
-Feel free to modify the game constants in the code to customize your experience!
+### Step 1: Access the Project
+Visit the Space Havoc Repl at [https://replit.com/@qepting91/asteroids](https://replit.com/@qepting91/asteroids)
 
-Built with Python and Pygame, featuring smooth controls and engaging gameplay!# asteroids
+### Step 2: Fork the Project
+Create your own copy by clicking the "Fork" button
+<div align="center">
+    <img src="images/repl_fork.png" alt="Fork the Repl" width="600"/>
+</div>
+
+### Step 3: Run the Game
+Click the "Run" button to start playing
+<div align="center">
+    <img src="images/repl_run.png" alt="Run the Game" width="600"/>
+</div>
+
+### Step 4: Enjoy!
+Play Space Havoc directly in your browser
+<div align="center">
+    <img src="images/repl_output.png" alt="Game Output" width="600"/>
+</div>
+
+Want to customize your experience? Feel free to modify the game constants in the code!
+
+Built with Python and Pygame, featuring smooth controls and engaging gameplay!
